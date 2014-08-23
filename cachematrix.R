@@ -2,6 +2,7 @@
 if(!require("MASS")){
     install.packages("MASS")
 }
+
 #Calls the MASS package
 library("MASS")
 
