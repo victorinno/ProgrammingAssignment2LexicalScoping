@@ -1,4 +1,4 @@
-ProgrammingAssignment2LexicalScoping
+Programming Assignment 2 : Lexical Scoping
 ====================================
 ### Introduction
 
